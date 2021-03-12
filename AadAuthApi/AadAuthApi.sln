@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AadAuthApi", "AadAuthApi\AadAuthApi.csproj", "{2630B19B-B6E5-4689-A581-36041A88D8D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2630B19B-B6E5-4689-A581-36041A88D8D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2630B19B-B6E5-4689-A581-36041A88D8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2630B19B-B6E5-4689-A581-36041A88D8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2630B19B-B6E5-4689-A581-36041A88D8D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD644E37-E25E-4E98-ADE6-9BDC5020FD54}
+	EndGlobalSection
+EndGlobal
